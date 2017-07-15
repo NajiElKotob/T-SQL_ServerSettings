@@ -1,12 +1,9 @@
 /*
 SQL Server Settings/Configurations documentation
-by Business Intelligence Group BIG SARL
 Version 1.2.14 - 2012
-
-Naji El Kotob, naji@dotnetheroes.com
-
-How-to:
-Run, Select All, Copy with Headers and Paste into Excel
+by 
+Naji El Kotob, naji {@} dotnetheroes.com
+Business Intelligence Group BIG SARL
 */
 
 
