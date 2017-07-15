@@ -1,1 +1,1 @@
-# T-SQL_ServerSettings
+# T-SQL Server Settings
